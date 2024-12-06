@@ -1,0 +1,4 @@
+2024-12-05 17:35:12ZINFO  [TestNG-PoolService-0] stepDefinitions.commonSteps (commonSteps.java:41) - ***** Executing browserSetup method *****
+2024-12-05 17:35:14ZINFO  [TestNG-PoolService-0] stepDefinitions.commonSteps (commonSteps.java:43) - Browser launched
+2024-12-05 17:35:16ZINFO  [TestNG-PoolService-0] stepDefinitions.commonSteps (commonSteps.java:92) - https://google.com opened!
+2024-12-05 17:35:16ZINFO  [TestNG-PoolService-0] stepDefinitions.commonSteps (commonSteps.java:99) - Landing loaded!
