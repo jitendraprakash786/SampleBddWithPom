@@ -1,7 +1,0 @@
-Apps:
-  prod:
-    HP:
-      URL: https://www.nba.com/warriors
-  qa:
-    HP:
-      URL: https://www.nba.com/warriors
